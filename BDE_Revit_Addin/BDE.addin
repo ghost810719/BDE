@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>BDE</Name>
+    <Assembly>../BDE_Revit_Addin.dll</Assembly>
+    <AddInId>5EE11F9B-D074-4C82-A3A2-5C415BBD981C</AddInId>
+    <FullClassName>BDE.BDEApplication</FullClassName>
+    <Description>BDE enables the developers to easily select a right location of each beacon, determine the coordinates of the location and install the beacon at the coordinates would be prohibitive without the tools. BDE make use of the data provided by the Building/environment Data and Information (BeDI) repository of the building to support the design, configuration, installation and maintenance of the IPS. A part of BDE is a plugin of the widely used BIM software Autodesk Revit.</Description>
+    <Text>BDE</Text>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>DRBoaST</VendorId>
+  </AddIn>
+</RevitAddIns>
